@@ -10,7 +10,7 @@ this repo private qualifies it as fair use.
 Kick start the installation using the Copilot CLI, e.g.,
 
 ```shell
-plugin install dchege711/llm-plugin
+/plugin install dchege711/llm-plugin
 ```
 
 ... and then follow the interactive instructions.
